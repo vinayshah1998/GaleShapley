@@ -1,0 +1,14 @@
+m=2 n=4
+User 0 Server 1
+User 1 Server 1
+User 2 Server 0
+User 3 Server 1
+Gale-Shapley Server Optimal: stable? true
+
+m=2 n=4
+User 0 Server 1
+User 1 Server 1
+User 2 Server 0
+User 3 Server 1
+Brute Force: stable? true
+
